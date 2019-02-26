@@ -62,11 +62,14 @@ Jessica<br><br>
 Use the same method as you did for the issues.  
 <br><br><br><br>
 
-1. How many pull requests were opened within the past month?  
+1. How many pull requests were opened within the past month?<br>
+There are **zero** pull requests that were opened within the past month.
 <br><br><br><br>
 
 
-1. How recently were any pull requests accepted and merged?  
+
+1. How recently were any pull requests accepted and merged?<br>
+There is **no** history of any pull requested being accepted and merged.
 <br><br><br><br>
 
 ### Summary
