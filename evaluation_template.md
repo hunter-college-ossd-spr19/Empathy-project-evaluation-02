@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Project Name**:
 [Empathy](https://gitlab.gnome.org/GNOME/empathy)
 
@@ -11,9 +12,11 @@
 
 
 1. How long ago was the last commit?
+Last commit was on Feb 19, 2019, 9:23pm EST.
 <br><br><br><br>
 
 1. How many people are maintaining the project?
+There are two maintainers: Xavier Claessens and Guillaume Desmottes.
 <br><br><br><br>
 
 1. How many contributors has the project had in the past year?
@@ -24,6 +27,7 @@ Compute the number of commits per week for the past twelve weeks.
 Jessica<br><br>
 
 1. How many issues are currently open?
+There are 911 issues are currently open.
 <br><br><br><br>
 
 1. How long do issues stay open?
@@ -42,6 +46,7 @@ Jessica<br><br>
 <br><br><br><br>
 
 1. How many issues were closed in the past six months?
+2 issues were closed in the past six months.
 <br><br><br><br>
 
 1. How many open pull requests are there?
