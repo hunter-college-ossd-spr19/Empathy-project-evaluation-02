@@ -24,8 +24,9 @@ In the past year, this project had 8 contributors.
 <br><br><br><br>
 
 1. How frequently do people commit?
-Compute the number of commits per week for the past twelve weeks.  
-Jessica<br><br>
+Compute the number of commits per week for the past twelve weeks.<br>
+On average, based on the past twelve weeks, people commit once every 4 weeks.
+<br><br><br><br>
 
 1. How many issues are currently open?  
 There are 911 issues are currently open.
