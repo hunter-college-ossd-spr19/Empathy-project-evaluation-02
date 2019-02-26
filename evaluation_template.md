@@ -46,7 +46,9 @@ Not all of them are, but they do have the label "Newcomers" for tasks that are g
 <br><br><br><br>
 
 
-1. Are they triaged?  
+1. Are they triaged?<br>
+Yes they are, they have tags such as "Needs Information" and "Needs Diagnosis" to get more information in order to reach
+a solution.
 <br><br><br><br>
 
 1. How many issues were closed in the past six months?  
