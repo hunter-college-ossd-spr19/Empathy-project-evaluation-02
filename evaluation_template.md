@@ -11,7 +11,7 @@
 ### Activity Level
 
 
-1. How long ago was the last commit?  
+1. How long ago was the last commit?<br><br>
 Last commit was on Feb 19, 2019, 9:23pm EST.
 <br><br>
 
