@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **Project Name**:
 [Empathy](https://gitlab.gnome.org/GNOME/empathy)
 
