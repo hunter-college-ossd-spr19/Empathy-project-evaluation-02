@@ -41,7 +41,8 @@ On average, based on their total of closed issues(**four**), issues stay open fo
 1. Is there active discussion on the issues?  
 <br><br><br><br>
 
-1. Are issues tagged as easy, hard, etc.?  
+1. Are issues tagged as easy, hard, etc.?<br>
+Not all of them are, but they do have the label "Newcomers" for tasks that are good or maybe easy to do for new contributors.
 <br><br><br><br>
 
 
