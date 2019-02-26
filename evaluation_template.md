@@ -34,8 +34,9 @@ There are 911 issues are currently open.
 
 1. How long do issues stay open?
 Take the twenty most recently closed issues and look at when each was first reported.
-Compute the number of days that each was open and take the average.  
-Jessica<br><br>
+Compute the number of days that each was open and take the average.<br>
+On average, based on their total of closed issues(**four**), issues stay open for about 23 months.
+<br><br><br><br>
 
 1. Is there active discussion on the issues?  
 <br><br><br><br>
