@@ -15,71 +15,73 @@
 Last commit was on Feb 19, 2019, 9:23pm EST.
 <br><br>
 
-1. How many people are maintaining the project?<br><br>
+2. How many people are maintaining the project?<br><br>
 There are two maintainers: Xavier Claessens and Guillaume Desmottes.
 <br><br>
 
-1. How many contributors has the project had in the past year?<br><br>
+3. How many contributors has the project had in the past year?<br><br>
 In the past year, this project had 8 contributors.
 <br><br>
 
-1. How frequently do people commit?
+4. How frequently do people commit?
 Compute the number of commits per week for the past twelve weeks.<br><br>
 On average, based on the past twelve weeks, people commit once every 4 weeks.
 <br><br>
 
-1. How many issues are currently open?<br><br>
+5. How many issues are currently open?<br><br>
 There are 911 issues are currently open.
 <br><br>
 
-1. How long do issues stay open?
+6. How long do issues stay open?
 Take the twenty most recently closed issues and look at when each was first reported.
 Compute the number of days that each was open and take the average.<br><br>
 On average, based on their total of closed issues(**four**), issues stay open for about 23 months.
 <br><br>
 
-1. Is there active discussion on the issues?<br><br>
+7. Is there active discussion on the issues?<br><br>
 No there is not, the last update to an issue was two weeks ago. The most recent one before that one was 2 months ago. There 
 are a couple more that were last updated 2-3 months ago but then the rest were last updated 9+ months ago.
 <br><br>
 
-1. Are issues tagged as easy, hard, etc.?<br><br>
+8 Are issues tagged as easy, hard, etc.?<br><br>
 Not all of them are, but they do have the label "Newcomers" for tasks that are good or maybe easy to do for new contributors.
 <br><br>
 
 
-1. Are they triaged?<br><br>
+9. Are they triaged?<br><br>
 Yes they are, they have tags such as "Needs Information" and "Needs Diagnosis" to get more information in order to reach
 a solution.
 <br><br>
 
-1. How many issues were closed in the past six months? <br><br> 
+10. How many issues were closed in the past six months? <br><br> 
 2 issues were closed in the past six months.
 <br><br>
 
-1. How many open pull requests are there?<br><br>
+11. How many open pull requests are there?<br><br>
 There is currently only one open pull request.
 <br><br>
 
-1. How long are pull requests remaining un-answered?  
+12. How long are pull requests remaining un-answered?  
 Look at the closed pull requests to see how long they stayed open. Take the twenty most recently closed ones and look at when each was first reported. Compute the number of days that each was open and take the average.<br><br>
 Since there is no history of any pull requests being closed, pull requests seemingly remain unanswered forever.
 <br><br>
 
-1. Is there active discussion on the pull requests?  
+13. Is there active discussion on the pull requests?  
 Use the same method as you did for the issues. <br><br>
 In the only open pull request there was active discussion when it was opened two months ago but, not a single comment ever since. 
 <br><br>
 
-1. How many pull requests were opened within the past month?<br><br>
+14. How many pull requests were opened within the past month?<br><br>
 There are **zero** pull requests that were opened within the past month.
 <br><br>
 
 
 
-1. How recently were any pull requests accepted and merged?<br><br>
+15. How recently were any pull requests accepted and merged?<br><br>
 There is **no** history of any pull requested being accepted and merged.
 <br><br>
 
 ### Summary
 
+We experienced issues when pulling when an error came up stating "Your local changes to the followng files would be overwritten by a merge." This occurred because during the time it was being edited someone else had already changed it. It was dealt by removing the file, pulling again and inserting the information back in the pulled file and then pushing once again.  
+Although this project was recommended to be done at the same time, because of scheduling issues most of us worked at different times and had few problems besides the one listed above. The formatting is not consistent across the board so discussing formatting would help the readability of the document. Otherwise, this project went smoothly. 
