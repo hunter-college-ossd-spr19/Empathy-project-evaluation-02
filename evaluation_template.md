@@ -39,6 +39,8 @@ On average, based on their total of closed issues(**four**), issues stay open fo
 <br><br>
 
 1. Is there active discussion on the issues?<br><br>
+No there is not, the last update to an issue was two weeks ago. The most recent one before that one was 2 months ago. There 
+are a couple more that were last updated 2-3 months ago but then the rest were last updated 9+ months ago.
 <br><br>
 
 1. Are issues tagged as easy, hard, etc.?<br><br>
