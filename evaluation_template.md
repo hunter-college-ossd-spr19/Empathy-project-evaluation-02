@@ -50,7 +50,8 @@ Jessica<br><br>
 2 issues were closed in the past six months.
 <br><br><br><br>
 
-1. How many open pull requests are there?  
+1. How many open pull requests are there?<br>
+There is currently only one open pull request.
 <br><br><br><br>
 
 1. How long are pull requests remaining un-answered?  
