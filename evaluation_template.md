@@ -1,10 +1,10 @@
-**Project Name**: 
-
+**Project Name**:
+[Empathy](https://gitlab.gnome.org/GNOME/empathy)
 
 ---
 
 **Evaluating Team** (list members):
-
+[Jessica Gutierrez](https://github.com/Gutierrezjdr), [John Genere](https://github.com/johncgenere), [Xiangmin Mo](https://github.com/mxmsunny), [Daniel Segarra](https://github.com/DanieSegarra36)
 ---
 
 ### Activity Level
@@ -19,17 +19,17 @@
 1. How many contributors has the project had in the past year?
 <br><br><br><br>
 
-1. How frequently do people commit? 
+1. How frequently do people commit?
 Compute the number of commits per week for the past twelve weeks.
-<br><br><br><br>
+Jessica<br><br>
 
 1. How many issues are currently open?
 <br><br><br><br>
 
 1. How long do issues stay open?
-Take the twenty most recently closed issues and look at when each was first reported. 
+Take the twenty most recently closed issues and look at when each was first reported.
 Compute the number of days that each was open and take the average.
-<br><br><br><br>
+Jessica<br><br>
 
 1. Is there active discussion on the issues?
 <br><br><br><br>
@@ -42,14 +42,14 @@ Compute the number of days that each was open and take the average.
 <br><br><br><br>
 
 1. How many issues were closed in the past six months?
-<br><br><br><br> 
+<br><br><br><br>
 
-1. How many open pull requests are there? 
+1. How many open pull requests are there?
 <br><br><br><br>
 
 1. How long are pull requests remaining un-answered?
 Look at the closed pull requests to see how long they stayed open. Take the twenty most recently closed ones and look at when each was first reported. Compute the number of days that each was open and take the average.
-<br><br><br><br>
+Jessica<br><br>
 
 1. Is there active discussion on the pull requests?
 Use the same method as you did for the issues.
@@ -59,7 +59,7 @@ Use the same method as you did for the issues.
 <br><br><br><br>
 
 
-1. How recently were any pull requests accepted and merged? 
+1. How recently were any pull requests accepted and merged?
 <br><br><br><br>
 
 ### Summary
