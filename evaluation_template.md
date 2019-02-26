@@ -39,11 +39,11 @@ On average, based on their total of closed issues(**four**), issues stay open fo
 <br><br>
 
 7. Is there active discussion on the issues?<br><br>
-No there is not, the last update to an issue was two weeks ago. The most recent one before that one was 2 months ago. There 
+No there is not, the last update to an issue was two weeks ago. The most recent one before that one was 2 months ago. There
 are a couple more that were last updated 2-3 months ago but then the rest were last updated 9+ months ago.
 <br><br>
 
-8 Are issues tagged as easy, hard, etc.?<br><br>
+8. Are issues tagged as easy, hard, etc.?<br><br>
 Not all of them are, but they do have the label "Newcomers" for tasks that are good or maybe easy to do for new contributors.
 <br><br>
 
@@ -53,7 +53,7 @@ Yes they are, they have tags such as "Needs Information" and "Needs Diagnosis" t
 a solution.
 <br><br>
 
-10. How many issues were closed in the past six months? <br><br> 
+10. How many issues were closed in the past six months? <br><br>
 2 issues were closed in the past six months.
 <br><br>
 
@@ -68,7 +68,7 @@ Since there is no history of any pull requests being closed, pull requests seemi
 
 13. Is there active discussion on the pull requests?  
 Use the same method as you did for the issues. <br><br>
-In the only open pull request there was active discussion when it was opened two months ago but, not a single comment ever since. 
+In the only open pull request there was active discussion when it was opened two months ago but, not a single comment ever since.
 <br><br>
 
 14. How many pull requests were opened within the past month?<br><br>
@@ -83,5 +83,5 @@ There is **no** history of any pull requested being accepted and merged.
 
 ### Summary
 
-Empathy is not very active and is not a good choice as a project. The average wait time for issues was a whopping **23 MONTHS**. This is an insane amount to wait especially when users might want usability upgrades. This is compounded by the fact that only two issues have been closed within the last six months. Meanwhile, when issues were actually closed, they had no comments on them unless they were 9 months old. Pull requests seem to "remain unanswered forever" which really puts a spotlight on how this project might possibly be dead. 
-Overall, this seems like a dead end project. With 8 contributors dominating this project you would think more would be done. This can mean a couple of things. First, the code is too difficult to fix. This could be the answer as to why 8 contributors seemed to have such low numbers. Second, the project is abandoned. This can be seen with the recent lack of activity in the comment sections for issues. Either way, there could be many reasons as to why this project is reaching its end but it is not a good project to join as an outsider. 
+Empathy is not very active and is not a good choice as a project. The average wait time for issues was a whopping **23 MONTHS**. This is an insane amount to wait especially when users might want usability upgrades. This is compounded by the fact that only two issues have been closed within the last six months. Meanwhile, when issues were actually closed, they had no comments on them unless they were 9 months old. Pull requests seem to "remain unanswered forever" which really puts a spotlight on how this project might possibly be dead.
+Overall, this seems like a dead end project. With 8 contributors dominating this project you would think more would be done. This can mean a couple of things. First, the code is too difficult to fix. This could be the answer as to why 8 contributors seemed to have such low numbers. Second, the project is abandoned. This can be seen with the recent lack of activity in the comment sections for issues. Either way, there could be many reasons as to why this project is reaching its end but it is not a good project to join as an outsider.
