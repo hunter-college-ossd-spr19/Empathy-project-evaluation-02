@@ -60,11 +60,13 @@ There is currently only one open pull request.
 <br><br><br><br>
 
 1. How long are pull requests remaining un-answered?  
-Look at the closed pull requests to see how long they stayed open. Take the twenty most recently closed ones and look at when each was first reported. Compute the number of days that each was open and take the average.  
-Jessica<br><br>
+Look at the closed pull requests to see how long they stayed open. Take the twenty most recently closed ones and look at when each was first reported. Compute the number of days that each was open and take the average.<br>
+Since there is no history of any pull requests being closed, pull requests seemingly remain unanswered forever.
+<br><br><br><br>
 
 1. Is there active discussion on the pull requests?  
-Use the same method as you did for the issues.  
+Use the same method as you did for the issues. <br>
+In the only open pull request there was active discussion when it was opened two months ago but, not a single comment ever since. 
 <br><br><br><br>
 
 1. How many pull requests were opened within the past month?<br>
