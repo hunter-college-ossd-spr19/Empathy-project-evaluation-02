@@ -3,8 +3,9 @@
 
 ---
 
-**Evaluating Team** (list members):
+**Evaluating Team** (list members):  
 [Jessica Gutierrez](https://github.com/Gutierrezjdr), [John Genere](https://github.com/johncgenere), [Xiangmin Mo](https://github.com/mxmsunny), [Daniel Segarra](https://github.com/DanieSegarra36)
+
 ---
 
 ### Activity Level
