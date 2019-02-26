@@ -19,7 +19,7 @@ Last commit was on Feb 19, 2019, 9:23pm EST.
 There are two maintainers: Xavier Claessens and Guillaume Desmottes.
 <br><br><br><br>
 
-1. How many contributors has the project had in the past year?
+1. How many contributors has the project had in the past year?<br>
 In the past year, this project had 8 contributors.
 <br><br><br><br>
 
